@@ -7,7 +7,7 @@ This tool generates an HTML report from the tarball output, making it easy to re
 
 Build the Data Viewer binary using PyInstaller:
 
-pyinstaller --onefile dataviewer.py
+pyinstaller --onefile dataViewer.py
 
 After the build completes, the binary will be located in the dist/ directory.
 
